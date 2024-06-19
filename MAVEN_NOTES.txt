@@ -44,3 +44,4 @@ Advantages of Maven
 * The task of downloading Jar files and other dependencies is done automatically
 * Provides easy access to all the required information 
 * Makes it easy for the developer to build a project in different environments without worrying about the dependencies, processes, etc.
+----------------------
